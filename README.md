@@ -20,14 +20,15 @@ Ergonomic development, simple deployment, instant page loads, and DOM manipulati
 
 ## Features
 
-### Kita features
-
 - Hypertext DOM Manipulation using JS Async Fetch
 - Open Source ([GitHub](https://github.com/danielclough/fixz))
 - Easy to use and modify
-- No preset limits
-- Inject support
 - Dark mode
+- Multilingual support
+- Search support (elasticlunr)
+- Keyboard shortcuts
+- Author profiles
+- Inject support
 - Responsive design
 - Social icons
 - Taxonomies support
@@ -39,15 +40,6 @@ Ergonomic development, simple deployment, instant page loads, and DOM manipulati
 - Comments using [Giscus](https://giscus.app/)
 - Mathematical notations using [KaTeX](https://katex.org/)
 - Diagrams and charts using [Mermaid](https://mermaid.js.org/)
-
-### FixZ features
-
-- Multilingual support
-- Search support (elasticlunr_javascript)
-- Improved search engine optimization
-- Improved configurability
-- Author profiles
-- Keyboard shortcuts
 
 ## Installing
 
