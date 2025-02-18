@@ -1,0 +1,16 @@
+name = "FixZ"
+description = "Rust (Zola) + Fixi == Ready To Ride!"
+license = "MIT"
+homepage = "https://fixz.danielc.us"
+min_version = "0.1.0"
+demo = "https://fixz.danielc.us"
+tags = ["Blog", "Multilingual", "Responsive", "SEO", "Search"]
+
+[author]
+name = "Daniel Clough"
+homepage = "https://danielc.us"
+
+[original]
+author = "st1020"
+homepage = "https://st1020.com"
+repo = "https://github.com/st1020/kita"

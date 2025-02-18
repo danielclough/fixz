@@ -1,0 +1,29 @@
+{
+  "name": "fixz",
+  "version": "0.1.0",
+  "description": "Rust (Zola) + Fixi == Ready To Ride!",
+  "homepage": "https://github.com/danielclough/fixz",
+  "license": "MIT",
+  "author": {
+    "name": "Daniel Clough",
+    "email": "danielclough@users.github.noreply.com",
+    "url": "https://danielc.us"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielclough/fixz.git"
+  },
+  "dependencies": {
+    "instant.page": "^5.2.0",
+    "katex": "^0.16.21",
+    "simple-icons": "^14.4.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^4.0.6",
+    "terser": "^5.37.0",
+    "zx": "^8.3.0"
+  }
+}
